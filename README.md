@@ -72,4 +72,4 @@ For generating the folder structure
 ![logo_border](./assets/BETALAN/png/logo_borders.png)
 
 ### logo \w transparency
-![logo_transparacy](./assets/BETALAN/png/logo_transparent.png)
+![logo_transparacy](./assets/BETALAN/png/betalan.png)
